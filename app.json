@@ -1,0 +1,26 @@
+{
+  "id": "2da89a79-e748-41f0-a475-3a74ebb0b63a",
+  "name": "WDTU",
+  "publisher": "Wasiu Ibrahim",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Extension for Radio Show",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50140
+    }
+  ],
+  
+  "showMyCode": true,
+  "runtime": "3.0"
+}
